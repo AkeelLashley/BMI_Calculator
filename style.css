@@ -21,7 +21,7 @@ body {
     color: #1a237e;
 }
 
-input {
+input, select{
     width: 100%;
     padding: 10px;
     font-size: 16px;
